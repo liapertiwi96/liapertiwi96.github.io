@@ -9,6 +9,8 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+## About Me
+My name is Lia Pertiwi,i come form Indra Giri Hulu. I College on Uin Suska Riau,my major Sistem Informasi,i live in Perumahan Paradise. Place and date of birth 15 June 1996. My hobby is reading. Thankyou
 ## Bioadata
 Nama : Lia Pertiwi<br>
 Nim : 11353205897<br>
