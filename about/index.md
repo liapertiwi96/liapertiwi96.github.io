@@ -5,7 +5,7 @@ tags: [about]
 modified: 2016-05-29T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-lia.jpg
+  feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
