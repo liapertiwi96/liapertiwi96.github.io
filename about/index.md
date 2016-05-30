@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lia Pertiwi
-tags: [about]
+tags: [Home]
 modified: 2016-05-29T20:53:07.573882-04:00
 comments: true
 image:
